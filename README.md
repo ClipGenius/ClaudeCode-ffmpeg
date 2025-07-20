@@ -1,6 +1,6 @@
 # ClipGenius FFmpeg 版 · Claude Code 集成
 
-在 Claude Code 中通过 Claude 4 Opus 模型 *(推荐)* 即可创建一个简洁的短片。
+在 Claude Code 中通过导入自己的素材，与 Claude 4 Opus 模型 *(推荐)* 协作即可创建一个简洁的短片。
 
 ## 快速开始
 
@@ -10,7 +10,7 @@ git clone https://github.com/ClipGenius/ClaudeCode-ffmpeg ClipGenius-ClaudeCode-
 
 💡 移除 README.md 有助于保持 LLM 的稳定性。
 
-然后，将素材文件也放入 `git clone` 下来的仓库 `ClipGenius-ClaudeCode-ffmpeg` 中，对 Claude 提出一个要求 (强烈建议要求包含**剪视频**、**视频类型**、**横屏/竖屏**、**你期望看到的效果**、**要求先设计剪辑方案**、**提供详细额外信息**)，即可开始剪辑！
+然后，将素材文件也放入 `git clone` 下来的仓库 `ClipGenius-ClaudeCode-ffmpeg` 中，对 Claude 提出一个要求，即可开始剪辑！
 
 提出的要求应当包含: 
 
