@@ -32,6 +32,10 @@ Claude 会将输出的内容放入 `./output` 文件夹，并在结束剪辑时�
 
 ⚠️ 这个项目目前仍然处于 Alpha 阶段，生成的视频质量不稳定，需要未来长期的开发才可以逐渐解决。因此，我们目前还不推荐将其用于生产用途。
 
+## Star 历史
+
+[![Star 历史图表](https://api.star-history.com/svg?repos=ClipGenius/ClaudeCode-ffmpeg&type=Date)](https://www.star-history.com/#ClipGenius/ClaudeCode-ffmpeg&Date)
+
 ## 支持我们
 
 您可以: 
